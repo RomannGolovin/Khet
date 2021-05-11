@@ -1,0 +1,9 @@
+﻿  WindowsProject1.cpp
+C:\Users\Александр\source\repos\WindowsProject1\WindowsProject1.cpp(366): warning C4101: wmEvent: неиспользованная локальная переменная
+C:\Users\Александр\source\repos\WindowsProject1\WindowsProject1.cpp(366): warning C4101: wmId: неиспользованная локальная переменная
+C:\Users\Александр\source\repos\WindowsProject1\WindowsProject1.cpp(496): warning C4101: clientRect: неиспользованная локальная переменная
+C:\Users\Александр\source\repos\WindowsProject1\WindowsProject1.cpp(499): warning C4101: hBrush: неиспользованная локальная переменная
+C:\Users\Александр\source\repos\WindowsProject1\WindowsProject1.cpp(498): warning C4101: bgRgn: неиспользованная локальная переменная
+C:\Users\Александр\source\repos\WindowsProject1\WindowsProject1.cpp(497): warning C4101: textRect: неиспользованная локальная переменная
+C:\Users\Александр\source\repos\WindowsProject1\WindowsProject1.cpp(493): warning C4101: AnubRed: неиспользованная локальная переменная
+  WindowsProject1.vcxproj -> C:\Users\Александр\source\repos\WindowsProject1\Debug\WindowsProject1.exe
